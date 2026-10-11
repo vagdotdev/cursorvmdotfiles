@@ -1,5 +1,7 @@
 # Restore the Cursor VM appearance
 
+For the automated per-user path or a fresh laptop, start with [FRESH_INSTALL.md](FRESH_INSTALL.md). The manual procedure below installs assets system-wide instead; choose one approach.
+
 The original export is preserved unchanged under `capture/`, including its historical `RESTORE.md`. These instructions clarify the steps for a fresh Ubuntu XFCE account. Do not restore the recorded package inventory wholesale: it includes software unrelated to appearance.
 
 ## 1. Install the desktop components

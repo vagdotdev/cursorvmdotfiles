@@ -12,9 +12,12 @@ Underneath, it is **Ubuntu 24.04.4 with XFCE**, styled with **WhiteSur Light**, 
 
 ## Recreate the look
 
-Start with [RESTORE.md](RESTORE.md). Ubuntu with an XFCE/X11 session is the closest match. Other Linux distributions can use the same assets with XFCE and Plank, but package names, display settings, and paths may need adjustment. This is not a universal installer or a replacement operating system.
+For a fresh laptop, give your coding agent this repo and start with [AGENTS.md](AGENTS.md) and [FRESH_INSTALL.md](FRESH_INSTALL.md): download and verify Ubuntu, prepare a USB, install Linux, then run the included appearance setup after booting. The reboot/install step may need your hands. For an existing desktop, use [RESTORE.md](RESTORE.md). Ubuntu with an XFCE/X11 session is the closest match. Other Linux distributions can use the same assets with XFCE and Plank, but package names, display settings, and paths may need adjustment. This is not a universal installer or a replacement operating system.
 
 ## Included
+
+- `AGENTS.md` and `FRESH_INSTALL.md`: the two-stage agent workflow, from ISO and USB to the installed desktop.
+- `scripts/`: per-user appearance installer and first-login setup, with backups and a dry-run mode.
 
 - `capture/bundle/home/home/ubuntu/.config/`: XFCE, GTK, terminal, and Plank dotfiles.
 - `capture/bundle/system/usr/share/`: wallpaper, themes, icons, cursors, fonts, dock themes, and application launcher references.
