@@ -1,0 +1,2 @@
+[docks/dock1]
+dock-items=['google-chrome.dockitem', 'thunar.dockitem', 'xfce4-terminal.dockitem']

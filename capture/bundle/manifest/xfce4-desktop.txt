@@ -1,0 +1,17 @@
+/backdrop/screen0/monitor0/workspace0/image-style       5
+/backdrop/screen0/monitor0/workspace0/last-image        /usr/share/backgrounds/desktop-background-3.png
+/backdrop/screen0/monitorscreen/workspace0/image-style  5
+/backdrop/screen0/monitorscreen/workspace0/last-image   /usr/share/backgrounds/desktop-background-3.png
+/backdrop/screen0/monitorVNC-0/workspace0/color-style   0
+/backdrop/screen0/monitorVNC-0/workspace0/image-style   5
+/backdrop/screen0/monitorVNC-0/workspace0/last-image    /usr/share/backgrounds/desktop-background-3.png
+/backdrop/screen0/monitorVNC-0/workspace1/color-style   0
+/backdrop/screen0/monitorVNC-0/workspace1/image-style   5
+/backdrop/screen0/monitorVNC-0/workspace1/last-image    /usr/share/backgrounds/xfce/xfce-shapes.svg
+/backdrop/screen0/monitorVNC-0/workspace2/color-style   0
+/backdrop/screen0/monitorVNC-0/workspace2/image-style   5
+/backdrop/screen0/monitorVNC-0/workspace2/last-image    /usr/share/backgrounds/xfce/xfce-shapes.svg
+/backdrop/screen0/monitorVNC-0/workspace3/color-style   0
+/backdrop/screen0/monitorVNC-0/workspace3/image-style   5
+/backdrop/screen0/monitorVNC-0/workspace3/last-image    /usr/share/backgrounds/xfce/xfce-shapes.svg
+/desktop-icons/style                                    0
