@@ -34,12 +34,12 @@ Suggested prompt:
 
 > Ubuntu is installed. Read AGENTS.md and complete the XFCE desktop setup from this repository. Back up existing settings, apply the captured look, and compare the result to the screenshots.
 
-Clone the repo with GitHub access. Because this repository is private, other people/agents need collaborator access or an authorized local copy.
+The repository is public. Anyone can clone it without signing in to GitHub.
 
 ```sh
 sudo apt update
 sudo apt install git python3 xfce4 xfce4-terminal thunar plank dconf-cli libglib2.0-bin fontconfig procps gtk2-engines-murrine gtk2-engines-pixbuf
-# Authenticate to GitHub using your agent's normal credential flow, then:
+# Clone the public repository:
 git clone https://github.com/vagdotdev/cursorvmdotfiles.git
 cd cursorvmdotfiles
 python3 scripts/apply.py --dry-run
